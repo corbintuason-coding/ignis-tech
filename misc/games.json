@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "5fa8e0010ae2da4a70b5e003"
+  },
+  "name": "Metal Gear Solid V: The Phantom Pain",
+  "description": "Set in 1984, nine years after the events of Ground Zeroes and eleven years before the events of the original Metal Gear, the story follows mercenary leader Punished Venom Snake as he ventures into Soviet-occupied Afghanistan and the Angola–Zaire border region to exact revenge on the people who destroyed his forces and came close to killing him during the climax of Ground Zeroes. It carries over the tagline of Tactical Espionage Operations first used in Metal Gear Solid: Peace Walker.",
+  "img_url": "https://m.media-amazon.com/images/M/MV5BNjY5Y2Q2YjktNTIwYi00NGY4LTgyYTgtZDc3NzE0NGZmODNhXkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_.jpg",
+  "price": 2500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa8e3440ae2da4a70b5e00b"
+  },
+  "name": "Tekken 7",
+  "description": "Tekken 7 is the latest installment in Tekken series, is a fighting game developed and published by Namco. The game runs on Unreal Engine 4, making it the first game of the series to run on this engine. The game also marks the 20th anniversary of the Tekken series.",
+  "img_url": "https://cdn.game.tv/game-tv-content/images_3/c8413ffd4a37ff07b100e4029f3b312a/GameTile.jpg",
+  "price": 2250,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa8e3c60ae2da4a70b5e00c"
+  },
+  "name": "Resident Evil 3",
+  "description": "Resident Evil 3 is a survival horror game developed and published by Capcom. It is a remake of Resident Evil 3: Nemesis (1999) and follows Jill Valentine and Carlos Oliveira as they attempt to survive a zombie apocalypse while being hunted by the intelligent bioweapon Nemesis.",
+  "img_url": "https://images.pushsquare.com/90f6c8925ebca/resident-evil-3-cover.cover_large.jpg",
+  "price": 2250,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa90c169da3d61a3ca9ea38"
+  },
+  "name": "Tekken Tag 2",
+  "description": "Like the original Tekken Tag Tournament (1999), the game includes almost every character from past Tekken games, giving it the largest playable roster in a Tekken game to date. Players can choose either a team of two characters on each side or a solo character. Tekken Tag Tournament 2 has been positively received by critics, earning averaged review scores in the range of 82-83% at both GameRankings and Metacritic for the PlayStation 3, Wii U and Xbox 360 versions, as well as several fighting-game-of-the-year awards.",
+  "img_url": "https://www.mobygames.com/images/covers/l/419363-tekken-tag-tournament-2-playstation-3-front-cover.jpg",
+  "price": 1500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa92a5c7dfe0c285053b7d4"
+  },
+  "name": "Dark Souls",
+  "description": "Dark Souls is a 2011 action role-playing game developed by FromSoftware and published by Namco Bandai Games. A spiritual successor to FromSoftware's Demon's Souls, the game is the second instalment in the Souls series. Dark Souls takes place in the fictional kingdom of Lordran, where players assume the role of a cursed undead character who begins a pilgrimage to discover the fate of their kind.",
+  "img_url": "https://i.pinimg.com/474x/ab/33/e0/ab33e0993e55a128ddad160bc1cd573b.jpg",
+  "price": 999,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa933c70ecd9366ecc915df"
+  },
+  "name": "Metal Gear Solid 3: Snake Eater",
+  "description": "Set in 1964, the story centers on the FOX operative codenamed Naked Snake as he attempts to rescue a Russian rocket scientist by the name of Nikolai Stepanovich Sokolov, sabotage an experimental superweapon, and assassinate his defected former boss. While previous games were set in a primarily urban environment, Snake Eater adopts a 1960s Soviet jungle setting with the high tech, near-future trappings of previous Metal Gear Solid games being replaced with the wilderness.",
+  "img_url": "https://m.media-amazon.com/images/M/MV5BNzhlNDc3N2MtMjQwOC00MDMwLWFhNTgtNWY3N2E5MmU4NmE3XkEyXkFqcGdeQXVyODg1MTQ2MDg@._V1_UY1200_CR135,0,630,1200_AL_.jpg",
+  "price": 999,
+  "__v": 0
+}]

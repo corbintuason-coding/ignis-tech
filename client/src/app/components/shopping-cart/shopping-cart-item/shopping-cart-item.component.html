@@ -1,0 +1,21 @@
+<a href="#" class="list-group-item list-group-item-action">
+  <div class="row item">
+    <div class="col-md-2"> <img [src]="item.img_url" class="img-responsive cart-item-img">
+    </div>
+    <div class="col-md-7">
+      <div class="row">
+        <strong>        {{ item.product_name }}
+        </strong>
+      </div>
+      <div class="row">
+        <small class="mr-1"> <i> Unit Price: {{ item.price }}, </i> </small>
+        <small> <i>Quantity: {{ item.quantity }}  </i></small>
+      </div>
+    </div>
+    <div class="col-md-3">
+        <strong>
+            {{total_price | currency: "PHP"}}
+        </strong> </div>
+  </div>
+
+</a>
