@@ -22,6 +22,14 @@ FOXGames is a simple web application that was developed by John Corbin Tuason us
    npm run start
 ```
 
+## Database (MongoDB)
+
+Make sure that you already have MongoDB installed. You may populate the `games` collection by using `games.json` and `carts` collection by using `carts.json`. These can be found in the `misc` folder.
+
+## Test Cases
+
+For more details regarding this project, you may refer to `Test Cases.pdf`. This can be found in the `misc` folder
+
 > After successfully running Hapi.js and Angular you may access the website locally by visiting localhost (http://localhost:4200/) on your favorite Web Browser. Have Fun using the Web Application! 😊
 
 ## 📞 Contact Information
