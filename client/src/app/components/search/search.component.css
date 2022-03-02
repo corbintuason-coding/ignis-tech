@@ -1,7 +1,8 @@
-#search-component{
-    padding-bottom: 20px;
+#search-component {
+  padding-bottom: 20px;
 }
 
-.fox-games-brand{
-    cursor: pointer;
+.fox-games-brand {
+  cursor: pointer;
+  width: 100%;
 }
