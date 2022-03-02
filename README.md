@@ -22,7 +22,7 @@ FOXGames is a simple web application that was developed by John Corbin Tuason us
    npm run start
 ```
 
-## Database (MongoDB)
+## 🗂 Database (MongoDB)
 
 Make sure that you already have MongoDB installed. You may populate the `games` collection by using `games.json` and `carts` collection by using `carts.json`. These can be found in the `misc` folder.
 
